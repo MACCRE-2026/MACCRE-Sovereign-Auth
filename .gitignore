@@ -1,0 +1,14 @@
+# Secrets & Auth
+credentials.json
+token.json
+.env
+
+# State & Data
+__DATACENTER/
+*.log
+*.sqlite3
+
+# Python Artifacts
+__pycache__/
+.venv/
+*.pyc
